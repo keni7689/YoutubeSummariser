@@ -1,0 +1,6 @@
+streamlit>=1.22.0
+langcodes>=3.3.0
+youtube-transcript-api>=0.6.0
+streamlit-extras>=0.2.7
+requests>=2.28.2
+python-dotenv>=1.0.0
