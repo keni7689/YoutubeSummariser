@@ -89,6 +89,6 @@ A Streamlit web application that extracts transcripts from YouTube videos and ge
 
 ## Contact
 
-[Your Name] - [your.email@example.com]
+[Your Name] - [yogeshshejul54@gmail.com]
 
 Project Link: [https://github.com/your-username/youtube-transcript-summarizer](https://github.com/your-username/youtube-transcript-summarizer)
