@@ -71,14 +71,13 @@ A Streamlit web application that extracts transcripts from YouTube videos and ge
 
 ## Limitations
 
+
 - Works only with YouTube videos that have captions available
 - The free Hugging Face API has usage limits
 - Very long transcripts may be truncated before summarization
 - Summary quality depends on the clarity and structure of the original transcript
 
-## License
 
-[MIT License](LICENSE)
 
 ## Acknowledgements
 
@@ -89,6 +88,6 @@ A Streamlit web application that extracts transcripts from YouTube videos and ge
 
 ## Contact
 
-[Your Name] - [yogeshshejul54@gmail.com]
+Email - yogeshshejul54@gmail.com
 
-Project Link: [[https://github.com/your-username/youtube-transcript-summarizer](https://github.com/your-username/youtube-transcript-summarizer](https://github.com/keni7689/YoutubeSummariser))
+Project Link: [https://github.com/your-username/youtube-transcript-summarizer](https://github.com/your-username/youtube-transcript-summarizer](https://github.com/keni7689/YoutubeSummariser))
